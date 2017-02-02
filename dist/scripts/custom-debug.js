@@ -1,0 +1,4 @@
+$(function function_name(argument) {
+	// body...
+});
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImN1c3RvbS5qcyJdLCJuYW1lcyI6WyIkIiwiYXJndW1lbnQiXSwibWFwcGluZ3MiOiJBQUFBQSxFQUFFLFNBQXVCQyIsImZpbGUiOiJjdXN0b20tZGVidWcuanMiLCJzb3VyY2VzQ29udGVudCI6WyIkKGZ1bmN0aW9uIGZ1bmN0aW9uX25hbWUoYXJndW1lbnQpIHtcclxuXHQvLyBib2R5Li4uXHJcbn0pOyJdfQ==
