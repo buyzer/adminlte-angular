@@ -67,4 +67,20 @@ configRouter.config(['$stateProvider' , function($stateProvider){
 		templateUrl : 'templates/forms/advanced.html',
 		controller : 'ctrlFormsAdvanced'
 	});
+	// Table
+	$stateProvider.state('base.tables-data' ,{
+		url : '/tables/data',
+		templateUrl : 'templates/tables/data.html',
+		controller : 'ctrlTablesData'
+	});
+	$stateProvider.state('base.tables-simple' ,{
+		url : '/tables/simple',
+		templateUrl : 'templates/tables/simple.html'
+	});
+	//Calendar
+	$stateProvider.state('base.calendar' ,{
+		url : '/calendar',
+		templateUrl : 'templates/calendar.html',
+		controller : 'ctrlCalendar'
+	});
 }]);
